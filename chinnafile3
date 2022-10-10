@@ -1,0 +1,28 @@
+<h1> Example </h1>  
+        <h2> How to Create Browsers Window using HTML and CSS? </h2>  
+    <div class = "container">  
+        <div class = "design">  
+            <div class = "jt left">  
+                <ttzz> <i class = "fa fa-google"  
+                aria-hidden = "true"> oogle </i> </ttzz>  
+            </div>  
+            <div class = "jt middle">  
+                         <input type = "text? value = "https://www.javatpoint.com/">  
+                <i class = "fa fa-search"  
+                aria-hidden = "true"> </i>  
+            </div>  
+            <div class = "jt right">  
+                <div style = "float:right">  
+                    <span class = "bar"> </span>  
+                    <span class = "bar"> </span>  
+                    <span class = "bar"> </span>  
+                </div>  
+            </div>  
+        </div>  
+        <div class = "body">  
+            <h3> <ttzz> J </ttzz> avatpoint </h3>     
+<p> A Computer Science Portal providing Online Training for Web Development Courses </p>  
+        </div>  
+    </div>  
+</body>  
+</html>     
