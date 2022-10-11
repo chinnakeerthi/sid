@@ -6,8 +6,10 @@ public static void main(String[] args) {
     for(int i=1;i<=10;i++){  
         System.out.println(i);  
 
-#adding new changes to the code develop by "chinna"
+#adding new  code develop by "chinnanaidu"
 function int {
+int()
+class =" "
 print {"chinna"} 
  return 0;
 }  
